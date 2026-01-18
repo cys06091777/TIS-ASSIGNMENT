@@ -1,4 +1,5 @@
-Click to watch the video blog:
+## 🎥 Video Blog
 
-### 🎥 Watch Video
-[![Watch on Google Drive](https://drive.google.com/drive/folders/1A4iwwxBRkJWd4djiA-C00dlkXaZzmeNu)]()
+👉 **Click the image below to watch the video**
+
+[![Watch the video](https://img.icons8.com/color/96/video.png)](https://drive.google.com/drive/folders/1A4iwwxBRkJWd4djiA-C00dlkXaZzmeNu)
